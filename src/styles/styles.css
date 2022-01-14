@@ -239,9 +239,9 @@ p {
 
 /* Hero Section */
 #hero {
-    background-image: url(../../public/images/hero-bg.png);
+    background-image: url(../../public/images/wallpaper.jpeg);
     background-size: cover;
-    background-position: top center;
+    background-position: center;
     position: relative;
     z-index: 1;
 }
